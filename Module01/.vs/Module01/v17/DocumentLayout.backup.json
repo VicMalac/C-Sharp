@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viadolce\\Documents\\Docs\\Malachias\\C#\\Module01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A03CDFDF-1EA9-4D3C-8B78-E2B4137EA8C0}|Module01\\Module01.csproj|c:\\users\\viadolce\\documents\\docs\\malachias\\c#\\module01\\module01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03CDFDF-1EA9-4D3C-8B78-E2B4137EA8C0}|Module01\\Module01.csproj|solutionrelative:module01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viadolce\\Documents\\Docs\\Malachias\\C#\\Module01\\Module01\\Program.cs",
+              "RelativeDocumentMoniker": "Module01\\Program.cs",
+              "ToolTip": "C:\\Users\\viadolce\\Documents\\Docs\\Malachias\\C#\\Module01\\Module01\\Program.cs",
+              "RelativeToolTip": "Module01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:06:44.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

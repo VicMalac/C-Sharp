@@ -1,0 +1,14 @@
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\bin\Debug\net8.0\Module01.exe
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\bin\Debug\net8.0\Module01.deps.json
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\bin\Debug\net8.0\Module01.runtimeconfig.json
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\bin\Debug\net8.0\Module01.dll
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\bin\Debug\net8.0\Module01.pdb
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.AssemblyInfoInputs.cache
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.AssemblyInfo.cs
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.csproj.CoreCompileInputs.cache
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.dll
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\refint\Module01.dll
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.pdb
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\Module01.genruntimeconfig.cache
+C:\Users\viadolce\Documents\Docs\Malachias\C#\Module01\Module01\obj\Debug\net8.0\ref\Module01.dll
